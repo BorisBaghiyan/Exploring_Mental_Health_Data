@@ -49,7 +49,6 @@ pip install -r requirements.txt
 
 ## 🧪 How to Use
 1. Open the mental_health_rf_classifier.ipynb notebook in Jupyter or Google Colab
-
 2 Run all cells step-by-step to:
 
  .Load and clean the data
