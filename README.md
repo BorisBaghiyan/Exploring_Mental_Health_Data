@@ -52,13 +52,13 @@ pip install -r requirements.txt
 
 2. Run all cells step-by-step to:
    
- .Load and clean the data
+   .Load and clean the data
    
- .Encode categorical features
+   .Encode categorical features
    
- .Train a classification model
+   .Train a classification model
    
- .Generate predictions and save submission.csv
+   .Generate predictions and save submission.csv
 
 3.Submit the file to Kaggle if participating
 
