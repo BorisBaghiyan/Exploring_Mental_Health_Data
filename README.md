@@ -51,10 +51,15 @@ pip install -r requirements.txt
 1. Open the mental_health_rf_classifier.ipynb notebook in Jupyter or Google Colab:
 
 2. Run all cells step-by-step to:
-    .Load and clean the data
-    .Encode categorical features
-    .Train a classification model
-    .Generate predictions and save submission.csv
+   
+ .Load and clean the data
+   
+ .Encode categorical features
+   
+ .Train a classification model
+   
+ .Generate predictions and save submission.csv
+
 3.Submit the file to Kaggle if participating
 
 ## 📊 Notes
