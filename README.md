@@ -62,9 +62,9 @@ pip install -r requirements.txt
   
 3.Submit the file to Kaggle if participating
 
-##📊 Notes
-.The project uses Random Forest classifier as baseline
+## 📊 Notes
+ .The project uses Random Forest classifier as baseline
 
-.Handles object column encoding safely with LabelEncoder
+ .Handles object column encoding safely with LabelEncoder
 
-.Aims for a clean, reproducible pipeline ready for experimentation and tuning
+ .Aims for a clean, reproducible pipeline ready for experimentation and tuning
